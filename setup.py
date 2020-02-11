@@ -7,5 +7,6 @@ setup(
     install_requires=[
         "django>=2.2",
         'django-libsass',
+        'django-compressor',
     ],
 )
